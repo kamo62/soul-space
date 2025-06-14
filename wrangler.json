@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "soul-space",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1ae2f34e-768f-4513-97fc-a79eb7e364b0",
+      "database_name": "soul-space-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
